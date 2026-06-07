@@ -6,3 +6,5 @@ lerobot/
 *.log
 *.tmp
 /*cache*/
+stera.md
+data_str.md
